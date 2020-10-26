@@ -2,7 +2,7 @@
 
 <div class="card">
     <div class="card-header bg-dark text-white">
-        <b> {{ $title }} </b>
+        <b> {{ $title }} - devThms </b>
         <span class="pull-right"> <a href="{{ url('/purchases/create') }}"> <button class="btn btn-rounded btn-outline-success"> <i class="fa fa-plus"></i> Crear</button> </a> </span>
     </div>
     <div class="card-body">
